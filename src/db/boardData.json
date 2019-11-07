@@ -1,0 +1,26 @@
+{
+  "board1": {
+    "boardId": "board1",
+    "name": "Video Games",
+    "category": "Technology",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "board2": {
+    "boardId": "board2",
+    "name": "Software Development",
+    "category": "Technology",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "board3": {
+    "boardId": "board3",
+    "name": "Burritos",
+    "category": "Food & Drink",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "board4": {
+    "boardId": "board4",
+    "name": "Coffee",
+    "category": "Food & Drink",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  }
+}
