@@ -2,6 +2,8 @@
   "pin1": {
     "pinId": "pin1",
     "url": "https://www.smashbros.com/en_US/",
+    "imageurl": "./images/ssb.jpg",
+    "description": "",
     "name": "Super Smash Bros Ultimate",
     "boardId": "board1",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
@@ -9,6 +11,8 @@
   "pin2": {
     "pinId": "pin2",
     "url": "https://www.pubg.com/",
+    "imageurl": "",
+    "description": "",
     "name": "PUBG",
     "boardId": "board1",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
@@ -16,6 +20,8 @@
   "pin3": {
     "pinId": "pin3",
     "url": "https://www.delish.com/cooking/recipe-ideas/a24569400/breakfast-burrito-recipe/",
+    "imageurl": "",
+    "description": "",
     "name": "Cheesy Bacon Breakfast Burrito Recipe",
     "boardId": "board3",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
@@ -23,6 +29,8 @@
   "pin4": {
     "pinId": "pin4",
     "url": "https://www.recipegirl.com/slow-cooker-carnitas-burritos/",
+    "imageurl": "",
+    "description": "",
     "name": "Slow Cooker Carnitas Burrito Recipe",
     "boardId": "board3",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
@@ -30,6 +38,8 @@
   "pin5": {
     "pinId": "pin5",
     "url": "https://www.thespruceeats.com/how-to-make-cappuccinos-766116",
+    "imageurl": "",
+    "description": "",
     "name": "The Perfect Cappuccino Recipe",
     "boardId": "board4",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
@@ -37,6 +47,8 @@
   "pin6": {
     "pinId": "pin6",
     "url": "https://www.allrecipes.com/recipe/96629/cafe-latte/",
+    "imageurl": "",
+    "description": "",
     "name": "Cafe Latte Recipe",
     "boardId": "board4",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"

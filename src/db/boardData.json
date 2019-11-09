@@ -1,26 +1,34 @@
 {
   "board1": {
     "boardId": "board1",
+    "imageUrl": "http://www.todayifoundout.com/wp-content/uploads/2019/06/nintendo-cartridges.png",
     "name": "Video Games",
     "category": "Technology",
+    "description": "Is this working",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
   },
   "board2": {
     "boardId": "board2",
+    "imageUrl": "",
     "name": "Software Development",
     "category": "Technology",
+    "description": "",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
   },
   "board3": {
     "boardId": "board3",
+    "imageUrl": "",
     "name": "Burritos",
     "category": "Food & Drink",
+    "description": "",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
   },
   "board4": {
     "boardId": "board4",
+    "imageUrl": "",
     "name": "Coffee",
     "category": "Food & Drink",
+    "description": "",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
   }
 }
