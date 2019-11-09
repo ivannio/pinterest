@@ -10,6 +10,7 @@ import pins from '../Pins/pins';
 const showPins = (e) => {
   const boardId = e.target.id.split('pins-')[1];
   pins.printPins(boardId);
+  $('#boards').html('');
 };
 
 const buildBoards = () => {

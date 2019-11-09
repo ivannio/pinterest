@@ -1,0 +1,12 @@
+#pin-section {
+  display: flex;  
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+#pin-header {
+  display: flex;
+  justify-content: center;
+}

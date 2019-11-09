@@ -1,14 +1,20 @@
+import './pinCard.scss';
 
 const makeAPin = (pins) => {
   let domString = '';
-  domString += `<div class="card Pin-card">
-  <img src="${pins.imageUrl}" class="card-img-top" alt="${pins.name}">
-  <div class="card-body">
-    <h5 class="card-title">${pins.name}</h5>
-    <p class="card-text">Category: ${pins.category}</p>
-    <p class="card-text">${pins.description}</p>
-<button type="button" id="pins-${pins.id}" class="btn btn-outline-success see-pins">See pins</button>
-            <button type="button" id="delete-${pins.id}" class="btn btn-outline-danger">Delete pin</button>
+  domString += `<div class="card pin-card">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="${pins.imageUrl}" class="card-img pin-card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">${pins.name}</h5>
+        <p class="card-text">${pins.description}</p>
+        <a href="${pins.url}" target="_blank"Ks><button type="button" class="btn btn-outline-success">Visit Site</button></a>
+        <button type="button" class="btn btn-outline-danger">Delete Pin</button>
+      </div>
+    </div>
   </div>
 </div>`;
   return domString;
