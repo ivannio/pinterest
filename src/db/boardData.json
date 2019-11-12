@@ -1,0 +1,34 @@
+{
+  "board1": {
+    "boardId": "board1",
+    "imageUrl": "http://www.todayifoundout.com/wp-content/uploads/2019/06/nintendo-cartridges.png",
+    "name": "Video Games",
+    "category": "Technology",
+    "description": "A video game is an electronic game that involves interaction with a user interface to generate visual feedback on a two- or three-dimensional video display device such as a TV screen, virtual reality headset or computer monitor. Since the 1980s, video games have become an increasingly important part of the entertainment industry, and whether they are also a form of art is a matter of dispute.",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "board2": {
+    "boardId": "board2",
+    "imageUrl": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Frajatbhageria%2Ffiles%2F2017%2F09%2Fcode-copy-1200x1200.jpg",
+    "name": "Software Development",
+    "category": "Technology",
+    "description": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "board3": {
+    "boardId": "board3",
+    "imageUrl": "https://alphaplantbased.com/wp-content/uploads/2019/01/All-Day-Burritos-Header.jpg",
+    "name": "Burritos",
+    "category": "Food & Drink",
+    "description": "A burrito is a dish in Mexican and Tex-Mex cuisine that consists of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients. The tortilla is sometimes lightly grilled or steamed to soften it, make it more pliable, and allow it to adhere to itself when wrapped.",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "board4": {
+    "boardId": "board4",
+    "imageUrl": "https://specials-images.forbesimg.com/imageserve/1152308114/960x0.jpg",
+    "name": "Coffee",
+    "category": "Food & Drink",
+    "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  }
+}

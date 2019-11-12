@@ -1,0 +1,17 @@
+#pin-section {
+  display: flex;  
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+#pin-header {
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+}
+
+#back-to-boards {
+  margin-bottom: 1em;
+}

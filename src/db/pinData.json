@@ -1,0 +1,74 @@
+{
+  "pin1": {
+    "pinId": "pin1",
+    "url": "https://www.smashbros.com/en_US/",
+    "imageUrl": "https://www.smashbros.com/assets_v2/img/top/hero04_en.jpg",
+    "description": "Super Smash Bros. Ultimate is a 2018 crossover fighting game developed by Bandai Namco Studios and Sora Ltd., and published by Nintendo for the Nintendo Switch. It is the fifth installment in the Super Smash Bros. series, succeeding Super Smash Bros. for Nintendo 3DS and Wii U.",
+    "name": "Super Smash Bros Ultimate",
+    "boardId": "board1",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "pin2": {
+    "pinId": "pin2",
+    "url": "https://www.pubg.com/",
+    "imageUrl": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2017/12/PUBG-review-2.jpg",
+    "description": "PlayerUnknown's Battlegrounds is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole.",
+    "name": "PUBG",
+    "boardId": "board1",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "pin3": {
+    "pinId": "pin3",
+    "url": "https://www.delish.com/cooking/recipe-ideas/a24569400/breakfast-burrito-recipe/",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-breakfast-burrito-horizontaljpg-1541624805.jpg?resize=768:*",
+    "description": "There's no ONE right way to make a breakfast burrito. But if you follow these easy rules, you're guaranteed perfect results (that can cure any hangover!) every time.",
+    "name": "Cheesy Bacon Breakfast Burrito Recipe",
+    "boardId": "board3",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "pin4": {
+    "pinId": "pin4",
+    "url": "https://www.recipegirl.com/slow-cooker-carnitas-burritos/",
+    "imageUrl": "https://www.recipegirl.com/wp-content/uploads/2018/03/Burrito-7.jpg",
+    "description": "This recipe is totally hassle-free.  Your slow cooker will do the bulk of the work.  That’s the beauty of a slow cooker- just let it cook all day, and dinner will be just about ready when your family is hungry and ready for dinner!  These burritos are great to make for dinner any night of the week.",
+    "name": "Slow Cooker Carnitas Burrito Recipe",
+    "boardId": "board3",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "pin5": {
+    "pinId": "pin5",
+    "url": "https://www.thespruceeats.com/how-to-make-cappuccinos-766116",
+    "imageUrl": "https://www.thespruceeats.com/thmb/8_6FInpaI-OaWi4jJ6oULjJJueg=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/462541167-56a176865f9b58b7d0bf85bd.jpg",
+    "description": "Light, foamy cappuccinos are a favorite drink for many a coffee lover. With two basic barista skills (pulling shots and foaming milk), you can learn how to make cappuccinos yourself.",
+    "name": "The Perfect Cappuccino Recipe",
+    "boardId": "board4",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "pin6": {
+    "pinId": "pin6",
+    "url": "https://www.allrecipes.com/recipe/96629/cafe-latte/",
+    "imageUrl": "https://images.media-allrecipes.com/userphotos/250x250/215765.jpg",
+    "description": "This is for all fellow coffee drinkers. I love lattes but buying them can be pricey. So here's a recipe so you can make your own.",
+    "name": "Cafe Latte Recipe",
+    "boardId": "board4",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "pin7": {
+    "pinId": "pin7",
+    "url": "https://www.w3schools.com/whatis/",
+    "imageUrl": "https://cdn2.downdetector.com/static/uploads/logo/w3schools-logo.jpg",
+    "description": "W3Schools is an educational website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, and Java.",
+    "name": "W3 Schools",
+    "boardId": "board2",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  },
+  "pin8": {
+    "pinId": "pin8",
+    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/10/flex-wrap.svg",
+    "description": "Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.",
+    "name": "A Complete Guide to Flexbox",
+    "boardId": "board2",
+    "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
+  }
+}
