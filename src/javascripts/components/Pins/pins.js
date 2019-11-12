@@ -9,7 +9,6 @@ const deleteAPin = (e) => {
   e.preventDefault();
   const pinId = e.target.id.split('delete-')[1];
   const boardId = $('.pin-header')[0].id;
-  console.log(boardId);
   pinData.deletePin(pinId)
     .then(() => {
       // eslint-disable-next-line no-use-before-define
