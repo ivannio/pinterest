@@ -9,7 +9,7 @@ const makeABoard = (boards) => {
     <p class="card-text">Category: ${boards.category}</p>
     <p class="card-text">${boards.description}</p>
 <button type="button" id="pins-${boards.id}" class="btn btn-outline-success see-pins">See Pins</button>
-            <button type="button" id="delete-${boards.id}" class="btn btn-outline-danger">Delete Board</button>
+            <button type="button" id="delete-${boards.id}" class="btn btn-outline-danger delete-board">Delete Board</button>
   </div>
 </div>`;
   return domString;
