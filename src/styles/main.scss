@@ -1,9 +1,16 @@
 @import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Carter+One&display=swap');
 
 body {
-  background-color: rgb(155, 219, 200);
+  background-image: url('../db/images/doodles.png');
 }
 
 .hide {
   display: none;
+}
+
+.header-text {
+  font-family: 'Carter One', cursive;
+  font-size: 3em;
+  text-align: center;
 }

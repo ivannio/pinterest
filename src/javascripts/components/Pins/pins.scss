@@ -8,5 +8,10 @@
 
 #pin-header {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+}
+
+#back-to-boards {
+  margin-bottom: 1em;
 }

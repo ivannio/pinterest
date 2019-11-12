@@ -17,7 +17,9 @@ const buildBoards = () => {
   const { uid } = firebase.auth().currentUser;
   boardData.getBoards(uid)
     .then((boards) => {
-      let domString = '<h2>Boards</h2>';
+      let domString = `<div id="board-header">
+      <h2 class="header-text">Boards</h2>
+      </div>`;
       domString += '<div id="board-section">';
       boards.forEach((board) => {
         domString += boardCard.makeABoard(board);
