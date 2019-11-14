@@ -56,11 +56,11 @@ const buildBoards = () => {
     .then((boards) => {
       let domString = `<div id="board-header">
       <h2 class="header-text">Boards</h2>
-      </div>`;
-      domString += '<div id="board-section">';
-      domString += `<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#boardModal">
+      <button type="button" class="btn btn-success" id="add-board-button" data-toggle="modal" data-target="#boardModal">
       Add Board
-    </button>`;
+    </button>
+    </div>`;
+      domString += '<div id="board-section">';
       boards.forEach((board) => {
         domString += boardCard.makeABoard(board);
       });
