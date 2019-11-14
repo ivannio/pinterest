@@ -19,4 +19,6 @@ const getPins = (boardId) => new Promise((resolve, reject) => {
 
 const deletePin = (pinId) => axios.delete(`${baseUrl}/pins/${pinId}.json`);
 
-export default { getPins, deletePin };
+const addNewPin = (newPin) => axios.post(`${baseUrl}/pins.json`, newPin);
+
+export default { getPins, deletePin, addNewPin };
