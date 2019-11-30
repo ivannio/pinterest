@@ -41,12 +41,14 @@ const getPinModal = (e) => {
 
 const moveAPin = (e) => {
   e.stopImmediatePropagation();
-  const pinId = e.target.id.split('update-')[1];
+  const pinId = e.target.id;
   const boardId = $('.pin-header')[0].id;
+  console.log(boardId);
   const selectedBoard = $('input:checked').val();
   const { uid } = firebase.auth().currentUser;
-  pinData.getPinByPinId(pinId)
-    .then((thisPin) => {
+  pinData.getPinById(pinId)
+    .then((response) => {
+      const thisPin = response.data;
       const newPin = {
         name: thisPin.name,
         description: thisPin.description,
@@ -54,6 +56,7 @@ const moveAPin = (e) => {
         imageUrl: thisPin.imageUrl,
         boardId: `${selectedBoard}`,
         uid,
+        pinId: `${pinId}`,
       };
       console.log(newPin);
       pinData.updatePin(pinId, newPin);
