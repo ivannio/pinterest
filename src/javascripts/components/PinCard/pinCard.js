@@ -13,7 +13,7 @@ const makeAPin = (pins) => {
         <p class="card-text">${pins.description}</p>
         <a href="${pins.url}" target="_blank"><button type="button" class="btn btn-outline-success">Visit Site</button></a>
         <button type="button" class="btn btn-outline-danger delete-pin" id="delete-${pins.id}">Delete Pin</button>
-        <button type="button" class="btn btn-outline-warning move-pin" id="update-${pins.id}" data-toggle="modal" data-target="#update-pinModal">Move To Another Board</button>
+        <button type="button" class="btn btn-outline-warning update-pin-modal" id="update-${pins.id}" data-toggle="modal" data-target="#update-pin-modal">Move To Another Board</button>
       </div>
     </div>
   </div>
