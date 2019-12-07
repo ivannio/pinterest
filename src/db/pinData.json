@@ -55,19 +55,19 @@
   },
   "pin7": {
     "pinId": "pin7",
-    "url": "https://www.w3schools.com/whatis/",
-    "imageUrl": "https://cdn2.downdetector.com/static/uploads/logo/w3schools-logo.jpg",
-    "description": "W3Schools is an educational website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, and Java.",
-    "name": "W3 Schools",
+    "url": "https://developer.mozilla.org/en-US/",
+    "imageUrl": "https://hacks.mozilla.org/files/2018/10/mdn-bizcard-1200x700.png",
+    "description": "MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.",
+    "name": "MDN Web Docs",
     "boardId": "board2",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
   },
   "pin8": {
     "pinId": "pin8",
-    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-    "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/10/flex-wrap.svg",
-    "description": "Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.",
-    "name": "A Complete Guide to Flexbox",
+    "url": "https://css-tricks.com/",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta.jpg",
+    "description": "Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.",
+    "name": "CSS Tricks",
     "boardId": "board2",
     "uid": "Kxawj6eNqpVs9Gl1cnbedtQtRv82"
   }
