@@ -93,7 +93,7 @@ const printPins = (boardId) => {
     .then((pins) => {
       let domString = `<div id="${boardId}" class="pin-header">
       <h2 class="header-text">Pins</h2>
-      <button class="btn btn-primary" id="back-to-boards">Go back to boards</button>`;
+      <a href="." class="btn btn-primary" id="back-to-boards">Go back to boards</a>`;
       domString += `<button type="button" class="btn btn-success" id="add-pin-button" data-toggle="modal" data-target="#pinModal">
       Add Pin
     </button></div>`;
