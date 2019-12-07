@@ -10,3 +10,4 @@ This app is a place to share and discover things according to your interests. Cr
 ## How To Run
 * Follow the link below to the deployed firebase project:
 
+   https://pinterest-4ee0c.firebaseapp.com/
